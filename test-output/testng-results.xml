@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-28T15:18:07 IST" name="Default suite" finished-at="2023-12-28T15:18:07 IST" duration-ms="122">
+    <groups>
+    </groups>
+    <test started-at="2023-12-28T15:18:07 IST" name="Default test" finished-at="2023-12-28T15:18:07 IST" duration-ms="122">
+      <class name="com.project.e_learning.test.TestElearningCourse">
+        <test-method signature="findEmptyInput()[pri:0, instance:com.project.e_learning.test.TestElearningCourse@1de5f259]" started-at="2023-12-28T15:18:07 IST" name="findEmptyInput" finished-at="2023-12-28T15:18:07 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findEmptyInput -->
+        <test-method signature="findcourse()[pri:0, instance:com.project.e_learning.test.TestElearningCourse@1de5f259]" started-at="2023-12-28T15:18:07 IST" name="findcourse" finished-at="2023-12-28T15:18:07 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findcourse -->
+        <test-method signature="findcourseGit()[pri:0, instance:com.project.e_learning.test.TestElearningCourse@1de5f259]" started-at="2023-12-28T15:18:07 IST" name="findcourseGit" finished-at="2023-12-28T15:18:07 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findcourseGit -->
+        <test-method signature="findcourseSelenium()[pri:0, instance:com.project.e_learning.test.TestElearningCourse@1de5f259]" started-at="2023-12-28T15:18:07 IST" name="findcourseSelenium" finished-at="2023-12-28T15:18:07 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findcourseSelenium -->
+        <test-method signature="findcourseTitle()[pri:0, instance:com.project.e_learning.test.TestElearningCourse@1de5f259]" started-at="2023-12-28T15:18:07 IST" name="findcourseTitle" finished-at="2023-12-28T15:18:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findcourseTitle -->
+      </class> <!-- com.project.e_learning.test.TestElearningCourse -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
